@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on whatever catches my interest.
 - 📫 How to reach me: mich.pawlicki@gmail.com
 
-- <p align="left">
+<p align="left">
   <img src="https://api.boot.dev/v1/users/public/a19c9d43-1aac-4c90-95e2-c741c5ee8d12/thumbnail" >
 </p>
 
