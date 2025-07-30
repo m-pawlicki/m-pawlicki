@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @m-pawlicki, aspiring junior developer.
-- 👀 I’m interested in coding for fun and solving problems. I also enjoy tinkering with 3D printing.
-- 🌱 I’m currently learning the backend dev path on Boot.Dev (Python & Go flavor)!
+- 👋 Hi, I’m @m-pawlicki, junior software developer.
+- 👀 I’m interested in coding and solving problems. I also enjoy tinkering with 3D printing and video games.
+- 🌱 I’m currently learning the backend deveveloper path on Boot.Dev (Python & Go version).
 - 💞️ I’m looking to collaborate on whatever catches my interest.
 - 📫 How to reach me: mich.pawlicki@gmail.com
 
